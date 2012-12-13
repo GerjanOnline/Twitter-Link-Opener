@@ -1,5 +1,5 @@
 {
-   "name": "Twitter Shortcuts Xtra",
+   "name": "Twitter open link in background tab",
    "version": "0.0.6",
    "manifest_version": 2,
    "background": {
@@ -15,6 +15,6 @@
       "js": [ "contents.js" ],
       "matches": [ "http://twitter.com/*", "https://twitter.com/*" ]
    } ],
-   "description": "Twitter Shortcuts Xtra, with i.a. open any twitter link in a new background tab with the key 'o'",
+   "description": "Twitter open link in background tab: open any* twitter link in a new background tab with the key 'o'",
    "permissions": [ "tabs" ]
 }
