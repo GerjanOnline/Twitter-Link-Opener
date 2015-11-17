@@ -1,4 +1,4 @@
-TwitterOpenLinkInBackgroundTab
+Twitter-Link-Opener
 ==================
 
-TwitterOpenLinkInBackgroundTab
+Twitter-Link-Opener
